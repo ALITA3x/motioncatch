@@ -23,7 +23,7 @@ src
 │   │               └── cloud_point  
 │   │                   ├── controller  
 │   │                   │   ├── SignUtil_bindDevice.java-----------------------Account bound device (https)  
-│   │                   │   ├── SignUtil_deviceProp.java-----------------------Get device properties (https)  	
+│   │                   │   ├── SignUtil_deviceProp.java-----------------------Get device properties (https)  
 │   │                   │   ├── SignUtil_getDeviceInfo.java--------------------Get all device information (https)  
 │   │                   │   ├── SignUtil_getsleepreport.java-------------------Get sleep quality report (https)  
 │   │                   │   ├── SignUtil_httpscallback.java---------------------The 3rd receiving event data interface (HTTPS-interface callback)  
