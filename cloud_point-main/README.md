@@ -14,12 +14,12 @@ This code provides 2 functions. One is to generate a signature based on timestam
 >>
 3	Codd ccatalog description  
 ==
-src
-├── main
-│   ├── java
-│   │   └── com
-│   │       └── alita
-│   │           └── example
+src  
+├── main  
+│   ├── java  
+│   │   └── com  
+│   │       └── alita  
+│   │           └── example  
 │   │               └── cloud_point
 │   │                   ├── controller
 │   │                   │   ├── SignUtil_bindDevice.java-----------------------Account bound device (https)
