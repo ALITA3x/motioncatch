@@ -12,7 +12,7 @@ This code provides 2 functions. One is to generate a signature based on timestam
 --
 >>[Postman](https://www.postman.com/downloads/)
 >>
-3	Codd ccatalog description  
+3	Code catalog description  
 ==
 src  
 ├── main  
