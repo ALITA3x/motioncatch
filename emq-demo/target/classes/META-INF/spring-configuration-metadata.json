@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "mqtt",
+      "type": "com.itheima.mqtt.properties.MqttProperties",
+      "sourceType": "com.itheima.mqtt.properties.MqttProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mqtt.broker-url",
+      "type": "java.lang.String",
+      "sourceType": "com.itheima.mqtt.properties.MqttProperties"
+    },
+    {
+      "name": "mqtt.client-id",
+      "type": "java.lang.String",
+      "sourceType": "com.itheima.mqtt.properties.MqttProperties"
+    },
+    {
+      "name": "mqtt.password",
+      "type": "java.lang.String",
+      "sourceType": "com.itheima.mqtt.properties.MqttProperties"
+    },
+    {
+      "name": "mqtt.username",
+      "type": "java.lang.String",
+      "sourceType": "com.itheima.mqtt.properties.MqttProperties"
+    }
+  ],
+  "hints": []
+}
